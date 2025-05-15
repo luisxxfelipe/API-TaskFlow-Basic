@@ -1,0 +1,22 @@
+# Node modules (NUNCA subir)
+node_modules/
+
+# Variáveis de ambiente (contém senhas, tokens, etc.)
+.env
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
+
+# Visual Studio Code
+.vscode/
+
+# Build ou cache
+dist/
+build/
+.cache/

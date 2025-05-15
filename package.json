@@ -1,0 +1,20 @@
+{
+  "name": "taskflow-api",
+  "version": "1.0.0",
+  "description": "API para gerenciamento de tarefas e sprints",
+  "main": "server.js",
+  "scripts": {
+    "dev": "nodemon server.js"
+  },
+  "keywords": [],
+  "author": "Luis Felipe",
+  "license": "MIT",
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  },
+  "dependencies": {
+    "dotenv": "^16.5.0",
+    "express": "^5.1.0",
+    "mysql2": "^3.14.1"
+  }
+}
