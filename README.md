@@ -12,6 +12,6 @@ API RESTful para gerenciamento de tarefas, usuários e sprints, construída com 
 ## 📦 Instalação
 
 ```bash
-git clone https://github.com/seu-usuario/taskflow-api.git
+git clone https://github.com/luisxxfelipe/API-TaskFlow-Basic.git
 cd taskflow-api
 npm install
