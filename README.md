@@ -110,7 +110,3 @@ API-TaskFlow-Basic/
 ## 📄 Observações
 - Para criar o primeiro admin, altere o campo `is_admin` do usuário no banco para 1.
 - O sistema está pronto para crescer: adicione mais entidades, permissões, filtros, etc.
-
----
-
-Desenvolvido por [Seu Nome].
